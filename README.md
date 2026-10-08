@@ -4,7 +4,7 @@ An end-to-end data analytics and machine learning project focused on understandi
 
 ---
 
-## 📌 Business Overview
+## Business Overview
 
 Customer churn is a critical metric for subscription and service-based businesses. Retaining existing customers is significantly more cost-effective than acquiring new ones.
 
@@ -17,7 +17,7 @@ This project performs exploratory data analysis (EDA) to uncover operational dri
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 - **Language:** Python
 - **Data Analysis & Manipulation:** Pandas, NumPy
@@ -27,7 +27,7 @@ This project performs exploratory data analysis (EDA) to uncover operational dri
 
 ---
 
-## 📊 Workflow & Methodology
+##  Workflow & Methodology
 
 ```text
 Data Extraction ──► Data Cleaning ──► Exploratory Analysis ──► Feature Engineering ──► Model Training ──► Evaluation
